@@ -1,6 +1,6 @@
 import streamlit as st
 import io
-import cv2
+# import cv2 - Removing cv2 import as it's causing issues
 from PIL import Image
 import numpy as np
 import os
